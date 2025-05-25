@@ -3,7 +3,7 @@ title: Setting up AWS with Control Tower and CDK
 published: 2025-05-25
 updated: 2025-05-25
 description: 'Starting from scratch, setting up a Landing zone with Control Tower and enabling CDK'
-image: ''
+image: 'tower_aoe.png'
 tags: [AWS, CDK, Cloud, IaC]
 category: 'Cloud'
 draft: true 
