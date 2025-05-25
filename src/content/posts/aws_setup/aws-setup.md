@@ -6,7 +6,7 @@ description: 'Starting from scratch, setting up a Landing zone with Control Towe
 image: 'tower_aoe.png'
 tags: [AWS, CDK, Cloud, IaC]
 category: 'Cloud'
-draft: true 
+draft: false 
 ---
 
 # Intro
